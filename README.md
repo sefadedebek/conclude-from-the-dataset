@@ -1,4 +1,4 @@
-# conclude-from-the-dataset
+# Conclude from the dataset
 
 The average number of steps taken by men = 8013.907514450867
 
